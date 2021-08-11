@@ -1,0 +1,11 @@
+export const INIT_IMAGES = "INIT_IMAGES";
+export const START_GAME = "START_GAME";
+export const END_GAME = "END_GAME";
+export const SET_CUR_IMG = "SET_CUR_IMG";
+export const SAME_IMG = "SAME_IMG";
+export const INC_CUR_SCORE = "INC_CUR_SCORE";
+export const SET_STOP_GAME_TIME = "SET_STOP_GAME_TIME";
+export const INCREMENT_TIMER = "INCREMENT_TIMER";
+export const SET_CUR_STATS = "SET_CUR_STATS";
+export const RESET_SCORE = "RESET_SCORE";
+export const SET_NEW_IMG_ARR = "SET_NEW_IMG_ARR";

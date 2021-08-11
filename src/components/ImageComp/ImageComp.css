@@ -1,0 +1,20 @@
+.card-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: rgba(185, 185, 185, 0.411);
+  width: 100px;
+  box-shadow: inset 2px 1px 2px 0px rgba(255, 255, 255, 0.767);
+  border-radius: 5px;
+}
+.card-img:hover {
+  box-shadow: inset 0px 0px 4px 4px rgba(255, 255, 255, 0.767);
+}
+.card-img:active {
+  box-shadow: inset 0px 0px 0px 0px rgba(255, 255, 255, 0.767);
+}
+img {
+  width: 90px;
+  height: 90px;
+}

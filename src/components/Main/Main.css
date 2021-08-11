@@ -1,0 +1,29 @@
+.main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.game-info {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 80px;
+  background-color: rgb(250, 128, 128);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.game-info__cell {
+  background-color: rgb(105, 52, 52);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  font-size: 25px;
+  color: rgb(255, 240, 240);
+  border: 5px solid rgba(255, 246, 246, 0.89);
+  border-radius: 5px;
+}
