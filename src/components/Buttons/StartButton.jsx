@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { startGame, setStartGameTime } from "../../redux/actions/images";
+import { startGame } from "../../redux/actions/images";
 import "./startButton.css";
 export default function StartButton() {
   const dispatch = useDispatch();
